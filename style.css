@@ -1,0 +1,14 @@
+.square{
+    border: .1rem solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.squares{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 900px;
+}
+
