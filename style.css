@@ -2,6 +2,8 @@
     border: .1rem solid black;
     padding: 20px;
     margin: 20px;
+    transition: all .07s ease;
+
 }
 
 .squares{
@@ -14,5 +16,5 @@
 
 .playing{
     transform: scale(1.15);
-    color: red;
-}
+    border-color: red;
+    box-shadow: 0 0 1rem red;
