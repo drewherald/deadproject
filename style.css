@@ -12,3 +12,7 @@
     height: 900px;
 }
 
+.playing{
+    transform: scale(1.15);
+    color: red;
+}
